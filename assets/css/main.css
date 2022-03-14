@@ -1638,7 +1638,7 @@ take precedence the ones in this file. */
 	}
 
 		h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
-			color: inherit;
+			color: #cb2027;;
 		}
 
 	h1 {
