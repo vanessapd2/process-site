@@ -21,7 +21,7 @@ Just un comment the #banner rule below. */
 You can call the class whatever you want, but in order for it to work, it needs to be
 added to the button in the index html file as well.*/
 #banner .button.redbtn {
-  background-color: rgba(188, 46, 26, 1);
+  background-color: #cb2027;
   box-shadow: none;
 }
 
