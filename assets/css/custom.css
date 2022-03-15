@@ -8,8 +8,8 @@ Just un comment the #banner rule below. */
  #banner {
   background-color: #d8cbc3;
   background-size: cover;
-  color: rgba(255, 255, 255, 0.75);
-  text-shadow: 1px 1px 15px #333;
+  color: #d8cbc3;
+
   text-align: center;
   cursor: default;
   padding: 10em 4em 9em 4em;
@@ -26,7 +26,7 @@ added to the button in the index html file as well.*/
 }
 
 #banner .button.redbtn:hover {
-  background-color: rgba(188, 46, 26, .8);
+  background-color: #cc6a74;
 }
 
 
